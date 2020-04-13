@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/buildforsdg/static/css/main.265932ad.chunk.css",
-    "main.js": "/buildforsdg/static/js/main.32c6edd9.chunk.js",
-    "main.js.map": "/buildforsdg/static/js/main.32c6edd9.chunk.js.map",
-    "runtime-main.js": "/buildforsdg/static/js/runtime-main.e924e663.js",
-    "runtime-main.js.map": "/buildforsdg/static/js/runtime-main.e924e663.js.map",
-    "static/js/2.6e5cd52a.chunk.js": "/buildforsdg/static/js/2.6e5cd52a.chunk.js",
-    "static/js/2.6e5cd52a.chunk.js.map": "/buildforsdg/static/js/2.6e5cd52a.chunk.js.map",
-    "index.html": "/buildforsdg/index.html",
-    "precache-manifest.c8a5f821d6a133422e3002ee48140d71.js": "/buildforsdg/precache-manifest.c8a5f821d6a133422e3002ee48140d71.js",
-    "service-worker.js": "/buildforsdg/service-worker.js",
-    "static/css/main.265932ad.chunk.css.map": "/buildforsdg/static/css/main.265932ad.chunk.css.map",
-    "static/js/2.6e5cd52a.chunk.js.LICENSE.txt": "/buildforsdg/static/js/2.6e5cd52a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/buildforsdg/static/media/logo.5d5d9eef.svg"
+    "main.css": "/buildforsdg2/static/css/main.265932ad.chunk.css",
+    "main.js": "/buildforsdg2/static/js/main.bff4f196.chunk.js",
+    "main.js.map": "/buildforsdg2/static/js/main.bff4f196.chunk.js.map",
+    "runtime-main.js": "/buildforsdg2/static/js/runtime-main.356f11cf.js",
+    "runtime-main.js.map": "/buildforsdg2/static/js/runtime-main.356f11cf.js.map",
+    "static/js/2.6e5cd52a.chunk.js": "/buildforsdg2/static/js/2.6e5cd52a.chunk.js",
+    "static/js/2.6e5cd52a.chunk.js.map": "/buildforsdg2/static/js/2.6e5cd52a.chunk.js.map",
+    "index.html": "/buildforsdg2/index.html",
+    "precache-manifest.a553bd928217fca74a95774504740c3d.js": "/buildforsdg2/precache-manifest.a553bd928217fca74a95774504740c3d.js",
+    "service-worker.js": "/buildforsdg2/service-worker.js",
+    "static/css/main.265932ad.chunk.css.map": "/buildforsdg2/static/css/main.265932ad.chunk.css.map",
+    "static/js/2.6e5cd52a.chunk.js.LICENSE.txt": "/buildforsdg2/static/js/2.6e5cd52a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/buildforsdg2/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e924e663.js",
+    "static/js/runtime-main.356f11cf.js",
     "static/js/2.6e5cd52a.chunk.js",
     "static/css/main.265932ad.chunk.css",
-    "static/js/main.32c6edd9.chunk.js"
+    "static/js/main.bff4f196.chunk.js"
   ]
 }
