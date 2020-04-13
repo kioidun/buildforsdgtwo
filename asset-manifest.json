@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/buildforsdgtwo/static/css/main.a3bacf4e.chunk.css",
-    "main.js": "/buildforsdgtwo/static/js/main.a53f0e6d.chunk.js",
-    "main.js.map": "/buildforsdgtwo/static/js/main.a53f0e6d.chunk.js.map",
+    "main.css": "/buildforsdgtwo/static/css/main.5c3650c7.chunk.css",
+    "main.js": "/buildforsdgtwo/static/js/main.24677c70.chunk.js",
+    "main.js.map": "/buildforsdgtwo/static/js/main.24677c70.chunk.js.map",
     "runtime-main.js": "/buildforsdgtwo/static/js/runtime-main.300e0c59.js",
     "runtime-main.js.map": "/buildforsdgtwo/static/js/runtime-main.300e0c59.js.map",
     "static/js/2.6e5cd52a.chunk.js": "/buildforsdgtwo/static/js/2.6e5cd52a.chunk.js",
     "static/js/2.6e5cd52a.chunk.js.map": "/buildforsdgtwo/static/js/2.6e5cd52a.chunk.js.map",
     "index.html": "/buildforsdgtwo/index.html",
-    "precache-manifest.5b7e5b1035afcc19117c57d8e417f27d.js": "/buildforsdgtwo/precache-manifest.5b7e5b1035afcc19117c57d8e417f27d.js",
+    "precache-manifest.e9d7f729213e2b346e856a594f00d7a7.js": "/buildforsdgtwo/precache-manifest.e9d7f729213e2b346e856a594f00d7a7.js",
     "service-worker.js": "/buildforsdgtwo/service-worker.js",
-    "static/css/main.a3bacf4e.chunk.css.map": "/buildforsdgtwo/static/css/main.a3bacf4e.chunk.css.map",
+    "static/css/main.5c3650c7.chunk.css.map": "/buildforsdgtwo/static/css/main.5c3650c7.chunk.css.map",
     "static/js/2.6e5cd52a.chunk.js.LICENSE.txt": "/buildforsdgtwo/static/js/2.6e5cd52a.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/buildforsdgtwo/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.300e0c59.js",
     "static/js/2.6e5cd52a.chunk.js",
-    "static/css/main.a3bacf4e.chunk.css",
-    "static/js/main.a53f0e6d.chunk.js"
+    "static/css/main.5c3650c7.chunk.css",
+    "static/js/main.24677c70.chunk.js"
   ]
 }
