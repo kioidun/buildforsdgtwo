@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 
+
 class App extends Component{
   constructor(props){
     super(props)
@@ -110,48 +111,57 @@ render(){
       };
   return (
     <div class ="container">
+        <nav class = "navbar">
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#form">Form</a></li>
+            </ul>
+        </nav>
+        <section id="home">
+            <h1>COVID-19 Health Simulator</h1>
+            <p>Build for SDG</p>
+        </section>
         <section id="formLoading">
-        <h1>COVID-19 Health Simulator</h1>
-            <h2>Fill in the form</h2>
+            <h1>Fill in the form</h1>
             <form class='formtwo' id="form" onSubmit={this.handleSubmit} >
             <div class = "form-control">
                 <label for="population">Population</label>
-                <input type="text" id="population" value= {this.state.population} onChange={this.handleChange} placeholder="data-population" />
+                <input type="text" data-population="population" id="population" value= {this.state.population} onChange={this.handleChange} placeholder="data-population" />
                 <i class="fas fa-check-circle"></i>
                 <i class="fas fa-exclamation-circle"></i>
                 <small>Error message</small>
             </div>
             <div class = "form-control">
                 <label for="timeToElapse">Time To Elapse</label>
-                <input type="text" id="timeToElapse" value = {this.state.timeToElapse} onChange={this.handleChange2} placeholder="data-time-to-elapse" />
+                <input type="text" data-time-to-elapse="timeToElapse"id="timeToElapse" value = {this.state.timeToElapse} onChange={this.handleChange2} placeholder="data-time-to-elapse" />
                 <i class="fas fa-check-circle"></i>
                 <i class="fas fa-exclamation-circle"></i>
                 <small>Error message</small>
             </div>
             <div class = "form-control">
                 <label for="reportedCases">Reported Cases</label>
-                <input type="text" id="reportedCases" value = {this.state.reportedCases} onChange={this.handleChange3} placeholder="data-reported-cases"/ >
+                <input type="text" data-reported-cases="reportedCases" id="reportedCases" value = {this.state.reportedCases} onChange={this.handleChange3} placeholder="data-reported-cases"/ >
                 <i class="fas fa-check-circle"></i>
                 <i class="fas fa-exclamation-circle"></i>
                 <small>Error message</small>
             </div>
             <div class = "form-control">
                 <label for="totalHospitalBeds">Total Hospital Beds</label>
-                <input type="text" id="totalHospitalBeds" value= {this.state.totalHospitalBeds} onChange={this.handleChange4}placeholder="data-total-hospital-beds"/ >
+                <input type="text" data-total-hospital-beds="totalHospitalBeds" id="totalHospitalBeds" value= {this.state.totalHospitalBeds} onChange={this.handleChange4}placeholder="data-total-hospital-beds"/ >
                 <i class="fas fa-check-circle"></i>
                 <i class="fas fa-exclamation-circle"></i>
                 <small>Error message</small>
             </div>
             <div class = "form-control">
                 <label for="periodType">Period Type</label>
-                <select id="periodType" value= {this.state.periodType} onChange={this.handleSelectChange} name="data-period-type">
+                <select id="periodType" data-period-type="periodType" value= {this.state.periodType} onChange={this.handleSelectChange} name="data-period-type">
                     <option disabled hidden selected>Select</option>
                   <option value="days">days</option>
                   <option value="weeks">weeks</option>
                   <option value="months">months</option>
                 </select>
             </div>
-            <button type= "submit">data-go-submit</button>
+            <button data-go-estimate="data-go-estimate" type= "submit">data-go-submit</button>
            
             <div class = "form-control">
             <label for="data-result">data-result</label>
