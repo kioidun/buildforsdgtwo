@@ -36,9 +36,6 @@
     ]
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "devDependencies": {
-    "webpack": "^4.42.1"
-  },
   "author": "Duncan kioi",
   "license": "ISC"
 }
