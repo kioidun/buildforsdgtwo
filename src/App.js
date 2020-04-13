@@ -154,7 +154,7 @@ render(){
             </div>
             <div class = "form-control">
                 <label for="periodType">Period Type</label>
-                <select id="periodType" data-period-type="periodType" value= {this.state.periodType} onChange={this.handleSelectChange} name="data-period-type">
+                <select data-period-type="periodType" id="periodType"  value= {this.state.periodType} onChange={this.handleSelectChange} name="data-period-type">
                     <option disabled hidden selected>Select</option>
                   <option value="days">days</option>
                   <option value="weeks">weeks</option>
