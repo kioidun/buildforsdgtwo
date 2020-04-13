@@ -9,7 +9,7 @@ body{
     color:#000;
     line-height: 1.6;
     height: 100vh;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 .container{
@@ -17,9 +17,9 @@ body{
     height:100%;
 
     /* css smooth  scroll*/
-    overflow-y: scroll;
+    /* overflow-y: scroll;
     scroll-behavior: smooth;
-    scroll-snap-type: y mandatory;
+    scroll-snap-type: y mandatory; */
 }
 .navbar{
     position:fixed;
@@ -69,7 +69,7 @@ font-size: 4rem;
 section p{
     font-size: 1.5rem;
 }
-section#homehome{
+section#home{
     /* background: url('https://source.unsplash.com/bZZp1PmHI0E/1600*900') no-repeat center center/ cover; */
     color: #000;
 }
@@ -126,7 +126,7 @@ section#homehome{
     bottom: 0;
     left: 0;
 }
-.form button{
+.formtwo button{
     background-color: #8e44ad;
     border:2px solid #8e44ad;
     color:#fff;

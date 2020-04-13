@@ -111,35 +111,35 @@ class Form extends Component{
         return(
             <form class='formtwo' id="form" onSubmit={this.handleSubmit} >
             <div class = "form-control">
-                <label>data-population</label>
+                <label for="data-population">data-population</label>
                 <input type="text" id="data-population" value= {this.state.population} onChange={this.handleChange} placeholder="data-population" />
                 <i class="fas fa-check-circle"></i>
                 <i class="fas fa-exclamation-circle"></i>
                 <small>Error message</small>
             </div>
             <div class = "form-control">
-                <label>data-time-to-elapse</label>
+                <label for="data-time-to-elapse">data-time-to-elapse</label>
                 <input type="text" id="data-time-to-elapse" value = {this.state.timeToElapse} onChange={this.handleChange2} placeholder="data-time-to-elapse" />
-                {/* <i class="fas fa-check-circle"></i>
-                <i class="fas fa-exclamation-circle"></i> */}
+                <i class="fas fa-check-circle"></i>
+                <i class="fas fa-exclamation-circle"></i>
                 <small>Error message</small>
             </div>
             <div class = "form-control">
-                <label>data-reported-cases</label>
+                <label for="data-reported-cases">data-reported-cases</label>
                 <input type="text" id="data-reported-cases" value = {this.state.reportedCases} onChange={this.handleChange3} placeholder="data-reported-cases"/ >
-                {/* <i class="fas fa-check-circle"></i>
-                <i class="fas fa-exclamation-circle"></i> */}
+                <i class="fas fa-check-circle"></i>
+                <i class="fas fa-exclamation-circle"></i>
                 <small>Error message</small>
             </div>
             <div class = "form-control">
-                <label>data-total-hospital-beds</label>
+                <label for="data-total-hospital-beds">data-total-hospital-beds</label>
                 <input type="text" id="data-total-hospital-beds" value= {this.state.totalHospitalBeds} onChange={this.handleChange4}placeholder="data-total-hospital-beds"/ >
-                {/* <i class="fas fa-check-circle"></i>
-                <i class="fas fa-exclamation-circle"></i> */}
+                <i class="fas fa-check-circle"></i>
+                <i class="fas fa-exclamation-circle"></i>
                 <small>Error message</small>
             </div>
             <div class = "form-control">
-                <label>data-period-type</label>
+                <label for="data-period-type">data-period-type</label>
                 <select id="data-period-type" value= {this.state.periodType} onChange={this.handleSelectChange} name="data-period-type">
                     <option disabled hidden selected>Select</option>
                   <option value="days">days</option>
@@ -149,7 +149,11 @@ class Form extends Component{
             </div>
             <input type="reset" id="button-reset" value="reset"/>
             <button type= "submit">data-go-submit</button>
-            <input type='text' value= {covid19ImpactEstimator}/>
+           
+            <div class = "form-control">
+            <label for="data-result">data-result</label>
+            <input type='text' id="data-result" value= {covid19ImpactEstimator}/>
+            </div>
          </form>   
         
         )

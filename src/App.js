@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Forms from './component/form';
 
@@ -12,11 +11,11 @@ function App() {
                 <li><a href="#form">Form</a></li>
             </ul>
         </nav>
-        <section id="homehome">
+        <section id="home">
             <h1>COVID-19 Health Simulator</h1>
             <p>Build for SDG</p>
         </section>
-        <section id="form">
+        <section id="formLoading">
             <h1>Fill in the form</h1>
              <Forms />
          </section>       
