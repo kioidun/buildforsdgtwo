@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cff66e9d0e32fb41e1cdb964f6f724b6",
+    "revision": "c4f9a4882e8cb3aef51ba41715755e9e",
     "url": "/buildforsdgtwo/index.html"
   },
   {
-    "revision": "94e272608bc2d50366e2",
+    "revision": "caa08ec125981531a2aa",
     "url": "/buildforsdgtwo/static/css/main.d331e9c9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/buildforsdgtwo/static/js/2.6e5cd52a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "94e272608bc2d50366e2",
-    "url": "/buildforsdgtwo/static/js/main.75afbb1b.chunk.js"
+    "revision": "caa08ec125981531a2aa",
+    "url": "/buildforsdgtwo/static/js/main.0d59cb5f.chunk.js"
   },
   {
     "revision": "8d95e3ec56155f180fed",
