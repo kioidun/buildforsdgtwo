@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/buildforsdgtwo/static/css/main.d331e9c9.chunk.css",
-    "main.js": "/buildforsdgtwo/static/js/main.4c56ecdf.chunk.js",
-    "main.js.map": "/buildforsdgtwo/static/js/main.4c56ecdf.chunk.js.map",
+    "main.js": "/buildforsdgtwo/static/js/main.329004b5.chunk.js",
+    "main.js.map": "/buildforsdgtwo/static/js/main.329004b5.chunk.js.map",
     "runtime-main.js": "/buildforsdgtwo/static/js/runtime-main.300e0c59.js",
     "runtime-main.js.map": "/buildforsdgtwo/static/js/runtime-main.300e0c59.js.map",
     "static/js/2.6e5cd52a.chunk.js": "/buildforsdgtwo/static/js/2.6e5cd52a.chunk.js",
     "static/js/2.6e5cd52a.chunk.js.map": "/buildforsdgtwo/static/js/2.6e5cd52a.chunk.js.map",
     "index.html": "/buildforsdgtwo/index.html",
-    "precache-manifest.9377e58f6f62f439d06197a271f6b99d.js": "/buildforsdgtwo/precache-manifest.9377e58f6f62f439d06197a271f6b99d.js",
+    "precache-manifest.2a8555492c77734939e35290dfe007ad.js": "/buildforsdgtwo/precache-manifest.2a8555492c77734939e35290dfe007ad.js",
     "service-worker.js": "/buildforsdgtwo/service-worker.js",
     "static/css/main.d331e9c9.chunk.css.map": "/buildforsdgtwo/static/css/main.d331e9c9.chunk.css.map",
     "static/js/2.6e5cd52a.chunk.js.LICENSE.txt": "/buildforsdgtwo/static/js/2.6e5cd52a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.300e0c59.js",
     "static/js/2.6e5cd52a.chunk.js",
     "static/css/main.d331e9c9.chunk.css",
-    "static/js/main.4c56ecdf.chunk.js"
+    "static/js/main.329004b5.chunk.js"
   ]
 }
