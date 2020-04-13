@@ -134,11 +134,13 @@ section#home{
     padding: 10px;
     margin-bottom: 5px;
     width: 70%;
+    height:10%;
     margin-left: 15%;
     font-size: 16px;
     border-radius: 4px;
     font-family: inherit;
 }
+
 .form-control.success input{
     border-color: #2ecc71;
 }

@@ -147,7 +147,6 @@ class Form extends Component{
                   <option value="months">months</option>
                 </select>
             </div>
-            <input type="reset" id="button-reset" value="reset"/>
             <button type= "submit">data-go-submit</button>
            
             <div class = "form-control">
