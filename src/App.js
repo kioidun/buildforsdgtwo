@@ -12,7 +12,7 @@ function App() {
                 <li><a href="#form">Form</a></li>
             </ul>
         </nav>
-        <section id="home">
+        <section id="homehome">
             <h1>COVID-19 Health Simulator</h1>
             <p>Build for SDG</p>
         </section>

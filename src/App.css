@@ -60,6 +60,7 @@ text-align: center;
 width:100%;
 height: 100vh;
 scroll-snap-align: center;
+
 }
 section h1{
 font-size: 4rem;
@@ -68,12 +69,12 @@ font-size: 4rem;
 section p{
     font-size: 1.5rem;
 }
-section#home{
+section#homehome{
     /* background: url('https://source.unsplash.com/bZZp1PmHI0E/1600*900') no-repeat center center/ cover; */
     color: #000;
 }
 
-.form{
+.formtwo{
     border-radius: 4px;
     width:40%;
     border:2px solid gray;
