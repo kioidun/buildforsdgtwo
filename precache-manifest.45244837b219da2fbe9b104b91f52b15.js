@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "020712a19eeab99fdd961871649bdec5",
+    "revision": "b0abd9f1b6f0d985d8ff1fb681a0d58d",
     "url": "/buildforsdgtwo/index.html"
   },
   {
-    "revision": "7b2fda387053d8540798",
-    "url": "/buildforsdgtwo/static/css/main.5c3650c7.chunk.css"
+    "revision": "3f15688ac3e5693b8297",
+    "url": "/buildforsdgtwo/static/css/main.2db2f745.chunk.css"
   },
   {
     "revision": "30f638c12dafea1bc001",
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/buildforsdgtwo/static/js/2.6e5cd52a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b2fda387053d8540798",
-    "url": "/buildforsdgtwo/static/js/main.24677c70.chunk.js"
+    "revision": "3f15688ac3e5693b8297",
+    "url": "/buildforsdgtwo/static/js/main.dc58b84c.chunk.js"
   },
   {
     "revision": "8d95e3ec56155f180fed",
     "url": "/buildforsdgtwo/static/js/runtime-main.300e0c59.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/buildforsdgtwo/static/media/logo.5d5d9eef.svg"
   }
 ]);
